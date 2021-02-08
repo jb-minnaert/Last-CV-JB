@@ -215,3 +215,43 @@ h5{
   display: flex;
   justify-content: center;
 }
+
+@media screen and (max-width : 400px){
+
+  h1{
+    font-size: 32px;
+    text-align: center;
+  }
+
+  p{
+    font-size: 15px;
+    margin-top: 60px;
+  }
+
+  .presentation img{
+    width: 60%;
+    height: 200px;
+  }
+  .p{
+    font-size: 11px;
+  }
+
+  .esp{
+    display: none;
+  }
+
+  .cards{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 100%;
+  }
+
+  .card-element{
+    width: 93%;
+    margin-bottom: 12px;
+    margin-left: 16px;
+
+  }
+}
