@@ -41,7 +41,8 @@ h2{
 	justify-content: space-between;
 }
 .presentation img{
-  max-width: 400px;
+	width: 35%
+  height: 345px;
 }
 li{
 	font-size: 22px;
