@@ -297,3 +297,7 @@ h5{
     height: 200px;
   }
 }
+.cartegooglemap{
+  display: flex;
+  justify-content: center;
+}
